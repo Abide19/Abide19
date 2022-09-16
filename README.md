@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abide19
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning with Alx Africa 
-- 💞️ I’m looking to collaborate on starting well and finishing strong after my one year software engineering training. .
+- 💞️ I’m looking to collaborate on starting well and finishing strong with  my one year software engineering training. .
 - 📫 How to reach me on LinkedIn; Abidemi Esther 
 
 <!---
